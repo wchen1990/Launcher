@@ -1,12 +1,12 @@
 Graphite Enabled {
     kind=Dark
-    colorUltraLight=#4A4A4A
-    colorExtraLight=#464646
-    colorLight=#424242
-    colorMid=#3F3F3F
-    colorDark=#353535
-    colorUltraDark=#313131
-    colorForeground=#B4B4B4
+    colorUltraLight=#b5b5b5
+    colorExtraLight=#b9b9b9
+    colorLight=#bdbdbd
+    colorMid=#c0c0c0
+    colorDark=#cacaca
+    colorUltraDark=#cecece
+    colorForeground=#4b4b4b
 }
 
 Graphite Border {
@@ -22,79 +22,79 @@ Graphite Border {
 
 Graphite Background {
     kind=Dark
-    colorUltraLight=#555555
-    colorExtraLight=#444444
-    colorLight=#333333
-    colorMid=#222222
-    colorDark=#111111
-    colorUltraDark=#000000
-    colorForeground=#B4B4B4
+    colorUltraLight=#aaaaaa
+    colorExtraLight=#bbbbbb
+    colorLight=#cccccc
+    colorMid=#dddddd
+    colorDark=#eeeeee
+    colorUltraDark=#ffffff
+    colorForeground=#4b4b4b
 }
 
 Graphite Watermark {
     kind=Dark
-    colorUltraLight=#555555
-    colorExtraLight=#444444
-    colorLight=#333333
-    colorMid=#222222
-    colorDark=#111111
-    colorUltraDark=#000000
-    colorForeground=#B4B4B4
+    colorUltraLight=#aaaaaa
+    colorExtraLight=#bbbbbb
+    colorLight=#cccccc
+    colorMid=#dddddd
+    colorDark=#eeeeee
+    colorUltraDark=#ffffff
+    colorForeground=#4b4b4b
 }
 
 Graphite Active {
     kind=Dark
-    colorUltraLight=#777777
-    colorExtraLight=#6F6F6F
-    colorLight=#636363
-    colorMid=#535353
-    colorDark=#434343
-    colorUltraDark=#3B3B3B
-    colorForeground=#C8C8C8
+    colorUltraLight=#888888
+    colorExtraLight=#909090
+    colorLight=#9c9c9c
+    colorMid=#acacac
+    colorDark=#bcbcbc
+    colorUltraDark=#c4c4c4
+    colorForeground=#373737
 }
 
 Graphite Selected {
     kind=Dark
-    colorUltraLight=#727272
-    colorExtraLight=#696969
-    colorLight=#606060
-    colorMid=#505050
-    colorDark=#404040
-    colorUltraDark=#383838
-    colorForeground=#C8C8C8
+    colorUltraLight=#8d8d8d
+    colorExtraLight=#969696
+    colorLight=#9f9f9f
+    colorMid=#afafaf
+    colorDark=#bfbfbf
+    colorUltraDark=#c7c7c7
+    colorForeground=#373737
 }
 
 Graphite Selected Disabled {
     kind=Dark
-    colorUltraLight=#777777
-    colorExtraLight=#6F6F6F
-    colorLight=#636363
-    colorMid=#535353
-    colorDark=#434343
-    colorUltraDark=#3B3B3B
-    colorForeground=#202020
+    colorUltraLight=#888888
+    colorExtraLight=#909090
+    colorLight=#9c9c9c
+    colorMid=#acacac
+    colorDark=#bcbcbc
+    colorUltraDark=#c4c4c4
+    colorForeground=#dfdfdf
 }
 
 Graphite Disabled {
     kind=Dark
-    colorUltraLight=#646464
-    colorExtraLight=#5E5E5E
-    colorLight=#545454
-    colorMid=#474747
-    colorDark=#3A3A3A
-    colorUltraDark=#333333
-    colorForeground=#CCCCCC
+    colorUltraLight=#9b9b9b
+    colorExtraLight=#a1a1a1
+    colorLight=#ababab
+    colorMid=#b8b8b8
+    colorDark=#c5c5c5
+    colorUltraDark=#cccccc
+    colorForeground=#333333
 }
 
 Graphite Highlight {
     kind=Dark
-    colorUltraLight=#373737
-    colorExtraLight=#373737
-    colorLight=#373737
-    colorMid=#373737
-    colorDark=#373737
-    colorUltraDark=#373737
-    colorForeground=#CCCCCC
+    colorUltraLight=#c8c8c8
+    colorExtraLight=#c8c8c8
+    colorLight=#c8c8c8
+    colorMid=#c8c8c8
+    colorDark=#c8c8c8
+    colorUltraDark=#c8c8c8
+    colorForeground=#333333
 }
 
 Graphite Tab Highlight {
